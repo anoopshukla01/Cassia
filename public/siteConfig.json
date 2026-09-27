@@ -1,0 +1,347 @@
+{
+  "brand": {
+    "name": "CASSIA",
+    "city": "Gorakhpur",
+    "eyebrow": "Gorakhpur · Uttar Pradesh",
+    "logoMode": "image",
+    "logoText": "C",
+    "logoImage": "/imgs/logo.png",
+    "introCircleImage": "/imgs/intro_circle.jpg",
+    "logoSub": "CASSIA",
+    "tagline": "An immersive sensory destination where culinary modernism, single-origin roasts, and craft botanicals converge.",
+    "introCta": "Begin The Journey ↓"
+  },
+  "anthology": {
+    "sectionTag": "The Cassia Anthology",
+    "sectionTitle": "Five Chapters of Culinary Distinction",
+    "sectionDesc": "Explore our curated culinary pillars — from charcoal live-fire delicacies and third-wave micro-lot coffee to artisanal cocktail chemistry and evocative dining salons. Click any chapter to inspect the dedicated menu."
+  },
+  "contact": {
+    "addressTitle": "The Address",
+    "addressMain": "Civil Lines, Gorakhpur",
+    "addressSub": "Uttar Pradesh 273001, India (Near Park Road)",
+    "hoursWeekday": "Monday – Thursday: 11:00 AM – 11:00 PM",
+    "hoursWeekend": "Friday – Sunday: 11:00 AM – 01:00 AM",
+    "hoursNote": "Kitchen closes 45 minutes prior to closing. Bar open late on weekends.",
+    "phone": "+91 98765 43210",
+    "email": "concierge@cassiagorakhpur.com",
+    "whatsappNumber": "919876543210",
+    "valetNote": "Complimentary white-glove valet parking is provided at our porte-cochère entrance for all dining and bar guests.",
+    "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3562.5!2d83.3732!3d26.7606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjbCsDQ1JzM4LjIiTiA4M8KwMjInMjMuNSJF!5e0!3m2!1sen!2sin!4v1234567890"
+  },
+  "cards": [
+    {
+      "menuKey": "food",
+      "tagline": "Chapter 01 · Gastronomy",
+      "title": "Progressive World Cuisine",
+      "excerpt": "Modern European precision interwoven with regional Awadhi and Indian coastal spices. Prepared over live charcoal and served on hand-thrown ceramics.",
+      "image": "/imgs/food.jpg",
+      "alt": "Cassia Signature Cuisine",
+      "details": [
+        {
+          "label": "Signature",
+          "val": "Truffle Burrata & Raw Mango Chaat"
+        },
+        {
+          "label": "Technique",
+          "val": "Live Woodfire & Slow Reduction"
+        },
+        {
+          "label": "Chef de Cuisine",
+          "val": "Degustation & A La Carte"
+        }
+      ],
+      "ctaText": "View Food Menu"
+    },
+    {
+      "menuKey": "coffee",
+      "tagline": "Chapter 02 · Specialty Coffee",
+      "title": "The Artisanal Brew Bar",
+      "excerpt": "Sourced from eighteen single-origin estates across Chikmagalur, Yirgacheffe, and Oaxaca. Extracted through slow hand pour-overs, nitro cold taps, and wild cassia infusions.",
+      "image": "/imgs/coffee.jpg",
+      "alt": "Specialty Coffee Craft",
+      "details": [
+        {
+          "label": "Specialty",
+          "val": "Wild Cassia Saffron Cortado"
+        },
+        {
+          "label": "Extraction",
+          "val": "V60 Hand-Drip & Nitro Cascade"
+        },
+        {
+          "label": "Beans",
+          "val": "100% Micro-Lot Arabica"
+        }
+      ],
+      "ctaText": "View Coffee Menu"
+    },
+    {
+      "menuKey": "mixology",
+      "tagline": "Chapter 03 · Craft Mixology",
+      "title": "Botanicals & Rare Spirits",
+      "excerpt": "A cocktail laboratory dedicated to hydro-distilled floral waters, oak-barrel-aged vermouths, torched cassia quills, and crystal-cut hand-carved ice.",
+      "image": "/imgs/bartender.jpg",
+      "alt": "Mixologist Crafting Cocktails",
+      "details": [
+        {
+          "label": "House Favorite",
+          "val": "The Gorakhpur Old Fashioned"
+        },
+        {
+          "label": "Elements",
+          "val": "Bourbon · Torched Cassia · Cane Gur"
+        },
+        {
+          "label": "Ice Program",
+          "val": "Clear Obsidian Hand-Carved"
+        }
+      ],
+      "ctaText": "View Cocktails & Mocktails"
+    },
+    {
+      "menuKey": "ambiance",
+      "tagline": "Chapter 04 · Ambiance",
+      "title": "An Architectural Sanctuary",
+      "excerpt": "Designed with muted charcoal tones, natural linen, soft acoustic textures, and low amber lighting designed to make hours dissolve into unhurried conversation.",
+      "image": "/imgs/interior.jpg",
+      "alt": "Cassia Dining Room Architecture",
+      "details": [
+        {
+          "label": "Location",
+          "val": "Civil Lines, Gorakhpur"
+        },
+        {
+          "label": "Setting",
+          "val": "Intimate Dining & Private Salon"
+        },
+        {
+          "label": "Lighting",
+          "val": "Bespoke Warm Amber & Candlelight"
+        }
+      ],
+      "ctaText": "View Salon & Spaces"
+    },
+    {
+      "menuKey": "events",
+      "tagline": "Chapter 05 · Curated Evenings",
+      "title": "Events & Chef Degustation",
+      "excerpt": "From weekend acoustic jazz sessions and vinyl listening lounges to private multi-course pairings hosted directly at the Executive Chef’s counter.",
+      "image": "/imgs/bar.jpg",
+      "alt": "Evenings at Cassia Bar",
+      "details": [
+        {
+          "label": "Fridays",
+          "val": "Live Acoustic Jazz & Wine"
+        },
+        {
+          "label": "Saturdays",
+          "val": "Vinyl Lounge & Mixology"
+        },
+        {
+          "label": "Sundays",
+          "val": "Slow Roast Degustation"
+        }
+      ],
+      "ctaText": "View Gatherings & Events"
+    }
+  ],
+  "menus": {
+    "food": {
+      "keyText": "CUISINE",
+      "title": "Progressive World Gastronomy",
+      "subtitle": "Culinary Menu · Woodfire & Cold-Pressed",
+      "dishes": [
+        {
+          "name": "Pan-Seared Himalayan Trout",
+          "price": "₹1,150",
+          "notes": "Saffron Emulsion · Charred Wild Asparagus · 24K Leaf",
+          "desc": "Pristine mountain brook trout pan-seared in clarified butter, rested over smooth saffron purée, edible gold, and black truffle shavings.",
+          "badge": "Signature"
+        },
+        {
+          "name": "Truffle Morel Brioche & Burrata",
+          "price": "₹880",
+          "notes": "Wild Himalayan Guchhi · Organic Burrata · 12-Yr Balsamic",
+          "desc": "Butter-toasted brioche smothered with pan-roasted wild guchhi morels and hand-torn organic burrata in a white wine reduction.",
+          "badge": "Artisanal"
+        },
+        {
+          "name": "Slow-Simmered Awadhi Dum Biryani",
+          "price": "₹980",
+          "notes": "Aged Basmati · Rose Water · Cassia Clay Handi",
+          "desc": "Prime cuts braised in spiced yogurt and layered under dough pastry with long-grain basmati scented with kewra and crushed cassia quills.",
+          "badge": "Heritage"
+        },
+        {
+          "name": "Burrata & Raw Mango Chaat",
+          "price": "₹680",
+          "notes": "Whipped Burrata · Spiced Mango Reduction · Urad Dal Crisp",
+          "desc": "Artisanal burrata paired with a piquant raw mango glaze and crispy lentil wafers, finished with fresh micro-coriander.",
+          "badge": "Chef Choice"
+        },
+        {
+          "name": "Smoked Wild Mushroom Tart",
+          "price": "₹620",
+          "notes": "Morel & Shiitake · Cassia Bark Crust · Black Garlic",
+          "desc": "Wild woodland mushrooms baked with goat cheese in a flaky butter pastry infused with crushed Ceylon cinnamon bark.",
+          "badge": "Vegetarian"
+        }
+      ]
+    },
+    "coffee": {
+      "keyText": "COFFEE",
+      "title": "The Artisanal Brew Bar",
+      "subtitle": "Specialty Roastery · Single-Origin Micro-Lots",
+      "dishes": [
+        {
+          "name": "Wild Cassia Saffron Cortado",
+          "price": "₹360",
+          "notes": "Kalledevarapura Arabica · Whole Wild Cassia · Mongra Saffron",
+          "desc": "Double ristretto pulled over toasted cassia bark, finished with silky microfoam infused with organic Kashmiri saffron threads.",
+          "badge": "Signature"
+        },
+        {
+          "name": "Monsooned Malabar Pour-Over",
+          "price": "₹380",
+          "notes": "V60 Hand-Drip · 3-Min Bloom · Malabar Coastal Curing",
+          "desc": "Slow-dripped single origin offering a heavy velvet body with earthen notes of pipe tobacco and toasted baker’s cocoa.",
+          "badge": "Single Origin"
+        },
+        {
+          "name": "Nitro Cold Brew with Cassia Cream",
+          "price": "₹420",
+          "notes": "24-Hour Extraction · Pure Liquid Nitrogen · Spiced Cream",
+          "desc": "Slow cold-steeped micro-lot served on nitrogen tap, crowned with a cold-frothed cream infused with ground Ceylon cinnamon.",
+          "badge": "Cold Draft"
+        },
+        {
+          "name": "Smoked Cascara Espresso",
+          "price": "₹310",
+          "notes": "Coffee Cherry Extraction · Himalayan Salt · Sparkling Water",
+          "desc": "Concentrated 22g shot extracted through toasted cascara berries, served alongside chilled sparkling mineral water.",
+          "badge": "Specialty"
+        },
+        {
+          "name": "Ceremonial Matcha Cortado",
+          "price": "₹390",
+          "notes": "Uji First-Harvest Matcha · Cardamom Essence · Velvety Oat",
+          "desc": "Stone-ground ceremonial green tea micro-whisked and balanced with delicate cardamom-infused oat foam.",
+          "badge": "Zero Caffeine"
+        }
+      ]
+    },
+    "mixology": {
+      "keyText": "MIXOLOGY",
+      "title": "Botanicals, Spirits & Cocktails",
+      "subtitle": "Cocktail Laboratory · Native Terai Botanicals",
+      "dishes": [
+        {
+          "name": "The Gorakhpur Old Fashioned",
+          "price": "₹850",
+          "notes": "Small-Batch Bourbon · Torched Cassia Quills · Organic Gur",
+          "desc": "Aged oak bourbon slow-infused with roasted wild cassia bark, raw jaggery nectar, and flamed orange bitters over crystal obsidian ice.",
+          "badge": "Signature"
+        },
+        {
+          "name": "Midnight Espresso Martini",
+          "price": "₹780",
+          "notes": "Cassia Cold Brew · Valrhona 70% Cacao · Pure Grain Vodka",
+          "desc": "Fresh-pulled single origin double shot shaken hard with grain vodka, dark Belgian cacao liquor, and a whisper of smoked sea salt.",
+          "badge": "House Favorite"
+        },
+        {
+          "name": "Saffron Silk Clarified Milk Punch",
+          "price": "₹890",
+          "notes": "48-Hour Milk Wash · Spiced Rum · Kashmiri Petals · Yuzu",
+          "desc": "Crystal-clear milk-washed aperitif infused with green cardamom, roasted almonds, and saffron threads for a velvet texture.",
+          "badge": "Clarified"
+        },
+        {
+          "name": "Rose & Cardamom Fizz",
+          "price": "₹720",
+          "notes": "Botanical Gin · Kannauj Rose Water · Fresh Citrus · Prosecco",
+          "desc": "Artisanal gin perfumed with hydro-distilled Kannauj rose extract, fresh lime juice, and Italian sparkling wine.",
+          "badge": "Sparkling"
+        },
+        {
+          "name": "Royal Terai Botanist (Zero-Proof)",
+          "price": "₹520",
+          "notes": "Non-Alcoholic Botanical Distillate · Lychee Shrub · Smoked Rosemary",
+          "desc": "Zero-proof craft elixir with Terai foothills lychee reduction, aromatic tonic, and torched garden rosemary.",
+          "badge": "Mocktail"
+        }
+      ]
+    },
+    "ambiance": {
+      "keyText": "SANCTUARY",
+      "title": "The Dining Salons & Private Chambers",
+      "subtitle": "Hospitality Experiences · Reserved Settings",
+      "dishes": [
+        {
+          "name": "The Grand Dining Salon",
+          "price": "Open Dining",
+          "notes": "Civil Lines Heritage Wing · Amber Candlelight · Low Acoustics",
+          "desc": "Our flagship dining room framed with dark walnut, tactile linen, and subdued lighting crafted for lingering evening dinners.",
+          "badge": "Main Floor"
+        },
+        {
+          "name": "The Chef’s Counter Seating",
+          "price": "By Reservation",
+          "notes": "Direct Kitchen Sightlines · Live Plating · 6 Dedicated Seats",
+          "desc": "An interactive high-top culinary counter overlooking executive chefs preparing woodfire reductions and seasonal tastings.",
+          "badge": "Intimate"
+        },
+        {
+          "name": "The Private Amber Salon",
+          "price": "Up to 14 Guests",
+          "notes": "Dedicated Sommelier · Private Audio · Bespoke Tasting Menu",
+          "desc": "An exclusive enclosed chamber for celebratory dinners, wine pairings, and private corporate engagements.",
+          "badge": "Private Salon"
+        },
+        {
+          "name": "The Verandah Coffee Lounge",
+          "price": "Morning & Afternoon",
+          "notes": "Natural Sunlit Courtyard · Artisan Brews · Patisserie",
+          "desc": "An airy sanctuary designed for morning coffee rituals, slow reading, and midday artisan pastry pairing.",
+          "badge": "Lounge"
+        }
+      ]
+    },
+    "events": {
+      "keyText": "EVENINGS",
+      "title": "Curated Cultural Evenings & Tastings",
+      "subtitle": "Seasonal Calendar · Music & Sensory Gatherings",
+      "dishes": [
+        {
+          "name": "Friday Acoustic Jazz & Wine Pairings",
+          "price": "Fridays · 8:30 PM",
+          "notes": "Live Double Bass & Saxophone · Sommelier Curated Pours",
+          "desc": "Slow, evocative jazz performances paired with organic biodynamic wines and our signature small plates menu.",
+          "badge": "Weekly Event"
+        },
+        {
+          "name": "Saturday Vinyl Lounge & Botanical Bar",
+          "price": "Saturdays · 9:00 PM",
+          "notes": "Analog Turntable Sessions · Rare Spirit Cocktails",
+          "desc": "Curated analog soul, bossa nova, and ambient grooves accompanied by limited-edition botanical cocktails.",
+          "badge": "Weekly Event"
+        },
+        {
+          "name": "Sunday Slow Degustation Lunch",
+          "price": "Sundays · 12:00 PM",
+          "notes": "7-Course Slow Menu · Table-Side Culinary Carvings",
+          "desc": "An unhurried weekend family banquet honoring slow-simmered regional recipes and artisanal desserts.",
+          "badge": "Degustation"
+        },
+        {
+          "name": "Monthly Coffee Cupping & Sensory Workshop",
+          "price": "Last Saturday of Month",
+          "notes": "Led by Head Q-Grader · 6 Flight Bean Tasting",
+          "desc": "Learn the chemistry of roasting, calibrated coffee slurping techniques, and bean terroir identification.",
+          "badge": "Workshop"
+        }
+      ]
+    }
+  }
+}
